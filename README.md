@@ -4,4 +4,4 @@
 
 jippi
 
-goodbye
+goodbye and hello
